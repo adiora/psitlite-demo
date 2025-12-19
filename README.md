@@ -1,4 +1,7 @@
 # PSIT Lite (Demo)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Users](https://img.shields.io/badge/Users-200%2B-green?style=for-the-badge&logo=google-classroom&logoColor=white)
+[![Website](https://img.shields.io/badge/Live_App-psitlite.space-007AFF?style=for-the-badge&logo=netlify&logoColor=white)](https://psitlite.space)
 
 A lightweight Flutter app designed to provide fast access to essential academic information like attendance, marks, and class schedules.
 
@@ -9,9 +12,7 @@ A lightweight Flutter app designed to provide fast access to essential academic 
 ## Live App
 A production build of this app (with backend services enabled) is actively used by students.
 
-🔗 **Download:** [![N|Solid](psitlite.png)](https://psitlite.space) 
-
- Used by 200+ students for daily academic tracking.
+ [![Website](https://img.shields.io/badge/Download-psitlite.space-007AFF?style=for-the-badge&logo=netlify&logoColor=white)](https://psitlite.space)
 
 ## Why I built this
 The existing college ERP app had performance and usability issues.  
@@ -26,17 +27,19 @@ Key goals:
 - 📊 Attendance overview
 - 📅 Daily timetable
 - 📝 Marks summary
-- 💻OLT (Online Test) Results
+- 💻 OLT (Online Test) Results
 - 📢 Announcements
 - ⚡ Offline-first caching
 - 🌙 Dark mode
 
-## How it's built
-The app intentionally avoids heavy state-management frameworks to keep things simple and explicit:
+## Architecture & Implementation
+The app intentionally avoids heavy state-management frameworks to keep the codebase lightweight, explicit, and easy to reason about.
 
-- `setState` for local UI state
-- `ChangeNotifier` for shared app state
-- Custom widgets for reusable UI components
+- `setState` for local UI state and simple interactions  
+- `ChangeNotifier` for shared and cross-screen state  
+- Modular, reusable widgets with clear separation between presentation and data layers  
+- Offline-first design using local caching to minimize load times and improve reliability  
+- Explicit state handling to enhance debuggability and predictability
 
 ## Screenshots
 <table align="center">
@@ -63,8 +66,25 @@ The app intentionally avoids heavy state-management frameworks to keep things si
 </table>
 
 ## Running the Demo
+
+1. **Clone the repo:**
+   
 ```bash
-flutter pub get
+  git clone https://github.com/adiora/psitlite-demo.git
+```
+
+2. **Install dependencies:**
+
+```bash
+  flutter pub get
+```
+3. **Run the app:**
+```bash
 flutter run
 ```
+4. **Demo Login**
+
+**User ID:** `2400123`  
+**Password:** `pass`
+
 No additional setup is required since all data is mocked.
