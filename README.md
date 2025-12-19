@@ -13,7 +13,7 @@ This project was an attempt to explore whether a faster, cleaner alternative cou
 Key goals:
 - **Speed** – faster load times and smoother navigation
 - **Simplicity** – only the most-used academic features
-- **Learning** – working with real-world data formats and handling unreliable responses gracefully
+- **Conveniance** – one tap access to all features
 
 ## Features
 - 📊 Attendance overview
@@ -32,9 +32,28 @@ The app intentionally avoids heavy state-management frameworks to keep things si
 - Custom widgets for reusable UI components
 
 ## Screenshots
-| Dashboard | Attendance | Timetable | Marks | Announcements |
-|--------------|--------------|--------------|--------------|--------------|
-| ![Dashboard screen](screenshots/dashboard.webp) | ![Attendance screen](screenshots/attendance.webp) | ![Timetable screen](screenshots/timetable.webp) | ![Marks screen](screenshots/marks.webp) |  ![Announcements screen](screenshots/announcements.webp) |
+<table>
+  <tr>
+    <th >Dashboard</th>
+    <th>Attendance</th>
+    <th>Timetable</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/dashboard.webp" width="150"></td>
+    <td><img src="screenshots/attendance.webp" width="150"></td>
+    <td><img src="screenshots/timetable.webp" width="150"></td>
+  </tr>
+  <tr>
+    <th>Marks</th>
+    <th>OLT Marks</th>
+    <th>Announcements</th>
+  </tr>
+  <tr>
+  <td><img src="screenshots/marks.webp" width="150"></td>
+    <td><img src="screenshots/oltmarks.webp" width="150"></td>
+    <td><img src="screenshots/announcements.webp" width="150"></td>
+  </tr>
+  </table>
 
 ## Running the Demo
 ```bash
