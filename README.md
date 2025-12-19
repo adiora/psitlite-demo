@@ -33,8 +33,8 @@ The app intentionally avoids heavy state-management frameworks to keep things si
 
 ## Screenshots
 | Dashboard | Attendance | Timetable | Marks | Announcements |
-|-----------|-----------|-----------|-----------|-----------|
-| ![Dashboard screen](screenshots/dashboard.webp) | ![Attendance screen](screenshots/attendance.webp) | ![Timetable screen](screenshots/timetable.png) | ![Marks screen](screenshots/marks.webp) |  ![Announcements screen](screenshots/announcements.webp) |
+|--------------|--------------|--------------|--------------|--------------|
+| ![Dashboard screen](screenshots/dashboard.webp) | ![Attendance screen](screenshots/attendance.webp) | ![Timetable screen](screenshots/timetable.webp) | ![Marks screen](screenshots/marks.webp) |  ![Announcements screen](screenshots/announcements.webp) |
 
 ## Running the Demo
 ```bash
