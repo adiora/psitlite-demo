@@ -1,4 +1,5 @@
 # Miscellaneous
+bfg.jar
 *.class
 *.log
 *.pyc
@@ -51,12 +52,12 @@ app.*.map.json
 /key.properties
 /release-key.jks
 
-# # Business Secrets
-# /.env
-# /lib/env/env.dart
-# /lib/utils/encryption.dart
-# /lib/env/
-# /lib/services/api_service.Dart
+# Business Secrets
+/.env
+/lib/env/env.dart
+/lib/utils/encryption.dart
+/lib/env/
+/lib/services/api_service.Dart
 
-# # Local tests
-# /test
+# Local tests
+/test
