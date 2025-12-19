@@ -1,7 +1,6 @@
 # PSIT Lite (Demo)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Users](https://img.shields.io/badge/Users-200%2B-green?style=for-the-badge&logo=google-classroom&logoColor=white)
 [![Website](https://img.shields.io/badge/Live_App-psitlite.space-007AFF?style=for-the-badge&logo=netlify&logoColor=white)](https://psitlite.space)
+![Users](https://img.shields.io/badge/Users-200%2B-green?style=for-the-badge&logo=google-classroom&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 A lightweight Flutter app designed to provide fast access to essential academic information like attendance, marks, and class schedules.
 
@@ -9,8 +8,10 @@ A lightweight Flutter app designed to provide fast access to essential academic 
 > This repository contains a UI/UX demo version of the app.  
 > Backend services and production APIs are intentionally removed and replaced with mock data to protect privacy and security.
 
+This repository is intended as a portfolio demonstration.
+
 ## Live App
-A production build of this app (with backend services enabled) is actively used by students.
+A production build of this app (with backend services enabled) is actively used by PSIT students.
 
  [![Website](https://img.shields.io/badge/Download-psitlite.space-007AFF?style=for-the-badge&logo=netlify&logoColor=white)](https://psitlite.space)
 
@@ -84,7 +85,7 @@ flutter run
 ```
 4. **Demo Login**
 
-**User ID:** `2400123`  
-**Password:** `pass`
+    **User ID:** `2400123`  
+    **Password:** `pass`
 
 No additional setup is required since all data is mocked.
