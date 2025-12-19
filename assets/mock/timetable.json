@@ -1,0 +1,402 @@
+[
+  {
+    "EmpName": "Chandra Shekhar Tiwari",
+    "Room": "B-25",
+    "Subject_Code": "BCS-303",
+    "IsLab": 0,
+    "TT_Period": 1,
+    "TT_Day": 1,
+    "Subject": "Discrete Structures & Theory of Logic",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Prem Singh",
+    "Room": "B-25",
+    "Subject_Code": "BAS-303",
+    "IsLab": 0,
+    "TT_Period": 2,
+    "TT_Day": 1,
+    "Subject": "Mathematics –IV",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Upasana Dugal",
+    "Room": "D-14",
+    "Subject_Code": "BCS-301",
+    "IsLab": 0,
+    "TT_Period": 3,
+    "TT_Day": 1,
+    "Subject": "Data Structure",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Vishal Nagar",
+    "Room": "D-14",
+    "Subject_Code": "BCS-302",
+    "IsLab": 0,
+    "TT_Period": 4,
+    "TT_Day": 1,
+    "Subject": "Computer Organization and Architecture",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Prem Singh",
+    "Room": "F-21",
+    "Subject_Code": "BAS-303",
+    "IsLab": 0,
+    "TT_Period": 5,
+    "TT_Day": 1,
+    "Subject": "Mathematics –IV",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Chandra Shekhar Tiwari",
+    "Room": "F-21",
+    "Subject_Code": "BCS-303",
+    "IsLab": 0,
+    "TT_Period": 6,
+    "TT_Day": 1,
+    "Subject": "Discrete Structures & Theory of Logic",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Shikha Dwivedi ",
+    "Room": "F-24",
+    "Subject_Code": "BCC-302",
+    "IsLab": 0,
+    "TT_Period": 7,
+    "TT_Day": 1,
+    "Subject": "Python programming",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Shikha Dwivedi ",
+    "Room": "F-24",
+    "Subject_Code": "BCC-302",
+    "IsLab": 0,
+    "TT_Period": 8,
+    "TT_Day": 1,
+    "Subject": "Python programming",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Abhishek Kumar",
+    "Room": "Q-31-32",
+    "Subject_Code": "BCC-351",
+    "IsLab": 1,
+    "TT_Period": 1,
+    "TT_Day": 2,
+    "Subject": "Internship Assessment &#47;Mini Project",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Abhishek Kumar",
+    "Room": "Q-31-32",
+    "Subject_Code": "BCC-351",
+    "IsLab": 1,
+    "TT_Period": 2,
+    "TT_Day": 2,
+    "Subject": "Internship Assessment &#47;Mini Project",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Upasana Dugal",
+    "Room": "D-14",
+    "Subject_Code": "BCS-301",
+    "IsLab": 0,
+    "TT_Period": 3,
+    "TT_Day": 2,
+    "Subject": "Data Structure",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Vishal Nagar",
+    "Room": "D-14",
+    "Subject_Code": "BCS-302",
+    "IsLab": 0,
+    "TT_Period": 4,
+    "TT_Day": 2,
+    "Subject": "Computer Organization and Architecture",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Hema Singh",
+    "Room": "D-14",
+    "Subject_Code": "BVE-301",
+    "IsLab": 0,
+    "TT_Period": 5,
+    "TT_Day": 2,
+    "Subject": "Universal Human Value and Professional Ethics&#47;",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Chandra Shekhar Tiwari",
+    "Room": "D-14",
+    "Subject_Code": "BCS-303",
+    "IsLab": 0,
+    "TT_Period": 6,
+    "TT_Day": 2,
+    "Subject": "Discrete Structures & Theory of Logic",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Mayuri Gupta",
+    "Room": "C-23-24",
+    "Subject_Code": "TT-H-3",
+    "IsLab": 0,
+    "TT_Period": 7,
+    "TT_Day": 2,
+    "Subject": "Hackathon",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Mayuri Gupta",
+    "Room": "C-23-24",
+    "Subject_Code": "TT-H-3",
+    "IsLab": 0,
+    "TT_Period": 8,
+    "TT_Day": 2,
+    "Subject": "Hackathon",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Upasana Dugal",
+    "Room": "J-11",
+    "Subject_Code": "BCS-351 ",
+    "IsLab": 1,
+    "TT_Period": 1,
+    "TT_Day": 3,
+    "Subject": "Data Structure Lab",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Upasana Dugal",
+    "Room": "J-11",
+    "Subject_Code": "BCS-351 ",
+    "IsLab": 1,
+    "TT_Period": 2,
+    "TT_Day": 3,
+    "Subject": "Data Structure Lab",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Upasana Dugal",
+    "Room": "B-25",
+    "Subject_Code": "BCS-301",
+    "IsLab": 0,
+    "TT_Period": 3,
+    "TT_Day": 3,
+    "Subject": "Data Structure",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Vishal Nagar",
+    "Room": "B-25",
+    "Subject_Code": "BCS-302",
+    "IsLab": 0,
+    "TT_Period": 4,
+    "TT_Day": 3,
+    "Subject": "Computer Organization and Architecture",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Shikha Dwivedi ",
+    "Room": "F-24",
+    "Subject_Code": "TT-Python-301",
+    "IsLab": 0,
+    "TT_Period": 5,
+    "TT_Day": 3,
+    "Subject": "Python Programming",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Shikha Dwivedi ",
+    "Room": "F-24",
+    "Subject_Code": "TT-Python-301",
+    "IsLab": 0,
+    "TT_Period": 6,
+    "TT_Day": 3,
+    "Subject": "Python Programming",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Rajat Dixit",
+    "Room": "F-12",
+    "Subject_Code": "TT-HD-3",
+    "IsLab": 0,
+    "TT_Period": 7,
+    "TT_Day": 3,
+    "Subject": "Hackathon Discussion",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Rajat Dixit",
+    "Room": "F-12",
+    "Subject_Code": "TT-HD-3",
+    "IsLab": 0,
+    "TT_Period": 8,
+    "TT_Day": 3,
+    "Subject": "Hackathon Discussion",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Chandra Shekhar Tiwari",
+    "Room": "D-14",
+    "Subject_Code": "BCS-303",
+    "IsLab": 0,
+    "TT_Period": 1,
+    "TT_Day": 4,
+    "Subject": "Discrete Structures & Theory of Logic",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Prem Singh",
+    "Room": "D-14",
+    "Subject_Code": "BAS-303",
+    "IsLab": 0,
+    "TT_Period": 2,
+    "TT_Day": 4,
+    "Subject": "Mathematics –IV",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Upasana Dugal",
+    "Room": "D-14",
+    "Subject_Code": "BCS-301",
+    "IsLab": 0,
+    "TT_Period": 3,
+    "TT_Day": 4,
+    "Subject": "Data Structure",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Vishal Nagar",
+    "Room": "D-14",
+    "Subject_Code": "BCS-302",
+    "IsLab": 0,
+    "TT_Period": 4,
+    "TT_Day": 4,
+    "Subject": "Computer Organization and Architecture",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Rajat Dixit",
+    "Room": "L-24",
+    "Subject_Code": "TT-HT-3",
+    "IsLab": 0,
+    "TT_Period": 5,
+    "TT_Day": 4,
+    "Subject": "Hackathon Teaching",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Rajat Dixit",
+    "Room": "L-24",
+    "Subject_Code": "TT-HT-3",
+    "IsLab": 0,
+    "TT_Period": 6,
+    "TT_Day": 4,
+    "Subject": "Hackathon Teaching",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Bishwajeet Kumar",
+    "Room": "F-24",
+    "Subject_Code": "TT-DBMS-301",
+    "IsLab": 0,
+    "TT_Period": 7,
+    "TT_Day": 4,
+    "Subject": "Database Management Systems",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Bishwajeet Kumar",
+    "Room": "F-24",
+    "Subject_Code": "TT-DBMS-301",
+    "IsLab": 0,
+    "TT_Period": 8,
+    "TT_Day": 4,
+    "Subject": "Database Management Systems",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Shikha Dwivedi ",
+    "Room": "D-14",
+    "Subject_Code": "TT-OLT-D-301",
+    "IsLab": 0,
+    "TT_Period": 1,
+    "TT_Day": 5,
+    "Subject": "OLT",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Prem Singh",
+    "Room": "D-14",
+    "Subject_Code": "BAS-303",
+    "IsLab": 0,
+    "TT_Period": 2,
+    "TT_Day": 5,
+    "Subject": "Mathematics –IV",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Anil Yadav",
+    "Room": "C-32-33",
+    "Subject_Code": "TR-OLT-301",
+    "IsLab": 0,
+    "TT_Period": 3,
+    "TT_Day": 5,
+    "Subject": "Technical & Corporate Training OLT",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Anil Yadav",
+    "Room": "C-32-33",
+    "Subject_Code": "TR-OLT-301",
+    "IsLab": 0,
+    "TT_Period": 4,
+    "TT_Day": 5,
+    "Subject": "Technical & Corporate Training OLT",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Shamli Dubey",
+    "Room": "B-31",
+    "Subject_Code": "BCS-352",
+    "IsLab": 1,
+    "TT_Period": 5,
+    "TT_Day": 5,
+    "Subject": "Computer Organization and Architecture Lab",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Shamli Dubey",
+    "Room": "B-34",
+    "Subject_Code": "BCS-352",
+    "IsLab": 1,
+    "TT_Period": 6,
+    "TT_Day": 5,
+    "Subject": "Computer Organization and Architecture Lab",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Arun Kumar Pandey",
+    "Room": "M-31",
+    "Subject_Code": "TT-FSD-301",
+    "IsLab": 0,
+    "TT_Period": 7,
+    "TT_Day": 5,
+    "Subject": "Full Stack Development",
+    "Batch_Id": "0"
+  },
+  {
+    "EmpName": "Arun Kumar Pandey",
+    "Room": "M-31",
+    "Subject_Code": "TT-FSD-301",
+    "IsLab": 0,
+    "TT_Period": 8,
+    "TT_Day": 5,
+    "Subject": "Full Stack Development",
+    "Batch_Id": "0"
+  }
+]

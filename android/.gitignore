@@ -1,0 +1,11 @@
+/.gradle
+/captures/
+GeneratedPluginRegistrant.java
+.cxx/
+
+app/debug
+app/profile
+app/release
+
+/.kotlin
+/build

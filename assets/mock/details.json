@@ -1,0 +1,18 @@
+[
+  {
+    "Student_Name": "Rahul Sharma",
+    "Student_Id": "2400123",
+    "University_RollNo": "2401641530001",
+    "Section": "CS-AIML-II-A",
+    "Date_of_Birth": "2004-08-14 00:00:00.000",
+    "Local_Address": "Sector 62, Noida, Uttar Pradesh",
+    "PEmail": "rahul.sharma@example.com",
+    "Permanent_Address": "Sector 62, Noida, Uttar Pradesh",
+    "Institute": 1,
+    "MobileNumber": "9876543210",
+    "ParentContactNumber": "9123456789",
+    "SectionId": 701,
+    "PSectionId": 701,
+    "Semester": 3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 324,
+    "Name": "PU",
+    "MaxMarks": 100
+  },
+  {
+    "Id": 321,
+    "Name": "CT-1",
+    "MaxMarks": 20
+  },
+  {
+    "Id": 320,
+    "Name": "ASG-4",
+    "MaxMarks": 10
+  },
+  {
+    "Id": 319,
+    "Name": "ASG-3",
+    "MaxMarks": 10
+  },
+  {
+    "Id": 318,
+    "Name": "ASG-2",
+    "MaxMarks": 10
+  },
+  {
+    "Id": 317,
+    "Name": "ASG-1",
+    "MaxMarks": 10
+  }
+]
