@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/models/marks.dart';
-import 'package:psit_lite_demo/models/test_list.dart';
-import 'package:psit_lite_demo/state/timetable/timetable_store.dart';
-import 'package:psit_lite_demo/services/mock_api_service.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
-import 'package:psit_lite_demo/widgets/error_box.dart';
+import 'package:psitlite_demo/models/marks.dart';
+import 'package:psitlite_demo/models/test_list.dart';
+import 'package:psitlite_demo/state/timetable/timetable_store.dart';
+import 'package:psitlite_demo/services/mock_api_service.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/widgets/error_box.dart';
 
 class MarksScreen extends StatefulWidget {
   const MarksScreen({super.key});

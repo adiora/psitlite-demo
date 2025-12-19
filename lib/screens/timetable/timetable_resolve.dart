@@ -2,11 +2,11 @@ import 'dart:collection';
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/models/student_timetable.dart';
-import 'package:psit_lite_demo/state/timetable/timetable_store.dart';
-import 'package:psit_lite_demo/services/cache_service.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
-import 'package:psit_lite_demo/utils/util.dart';
+import 'package:psitlite_demo/models/student_timetable.dart';
+import 'package:psitlite_demo/state/timetable/timetable_store.dart';
+import 'package:psitlite_demo/services/cache_service.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/utils/util.dart';
 
 class TimetableResolve extends StatefulWidget {
   const TimetableResolve({super.key});

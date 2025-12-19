@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/models/student_timetable.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/models/student_timetable.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
 
 class TimetableKey {
   final String date;

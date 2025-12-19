@@ -1,5 +1,4 @@
 # Miscellaneous
-bfg.jar
 *.class
 *.log
 *.pyc
@@ -50,7 +49,7 @@ app.*.map.json
 
 # Project Secrets 
 /key.properties
-/release-key.jks
+*.jks
 
 # Business Secrets
 /.env
@@ -61,3 +60,6 @@ app.*.map.json
 
 # Local tests
 /test
+
+bfg.jar
+local.properties

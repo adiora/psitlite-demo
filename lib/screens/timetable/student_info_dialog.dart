@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/state/timetable/timetable_store.dart';
+import 'package:psitlite_demo/state/timetable/timetable_store.dart';
 
 class SubjectInfoDialog extends StatelessWidget {
   const SubjectInfoDialog({super.key});

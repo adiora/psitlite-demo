@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/models/olt_report.dart';
-import 'package:psit_lite_demo/screens/marks/oltsolution_screen.dart';
-import 'package:psit_lite_demo/services/mock_api_service.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
-import 'package:psit_lite_demo/utils/util.dart';
-import 'package:psit_lite_demo/widgets/error_box.dart';
+import 'package:psitlite_demo/models/olt_report.dart';
+import 'package:psitlite_demo/screens/marks/oltsolution_screen.dart';
+import 'package:psitlite_demo/services/mock_api_service.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/utils/util.dart';
+import 'package:psitlite_demo/widgets/error_box.dart';
 
 class OltScreen extends StatefulWidget {
   const OltScreen({super.key});

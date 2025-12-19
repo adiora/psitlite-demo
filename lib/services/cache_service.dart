@@ -3,15 +3,15 @@ import 'dart:io' show File;
 import 'dart:typed_data';
 
 import 'package:path_provider/path_provider.dart';
-import 'package:psit_lite_demo/models/announcements.dart';
-import 'package:psit_lite_demo/models/marks.dart';
-import 'package:psit_lite_demo/models/olt_report.dart';
-import 'package:psit_lite_demo/models/student_attendance.dart';
-import 'package:psit_lite_demo/models/student_data.dart';
-import 'package:psit_lite_demo/models/test_list.dart';
-import 'package:psit_lite_demo/models/olt_solution.dart';
-import 'package:psit_lite_demo/services/mock_api_service.dart';
-import 'package:psit_lite_demo/utils/encryption.dart';
+import 'package:psitlite_demo/models/announcements.dart';
+import 'package:psitlite_demo/models/marks.dart';
+import 'package:psitlite_demo/models/olt_report.dart';
+import 'package:psitlite_demo/models/student_attendance.dart';
+import 'package:psitlite_demo/models/student_data.dart';
+import 'package:psitlite_demo/models/test_list.dart';
+import 'package:psitlite_demo/models/olt_solution.dart';
+import 'package:psitlite_demo/services/mock_api_service.dart';
+import 'package:psitlite_demo/utils/encryption.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class CacheService {

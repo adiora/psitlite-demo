@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/services/mock_data.dart';
-import 'package:psit_lite_demo/state/student.dart';
-import 'package:psit_lite_demo/services/cache_service.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
-import 'package:psit_lite_demo/theme/theme.dart';
-import 'package:psit_lite_demo/theme/app_theme.dart';
+import 'package:psitlite_demo/services/mock_data.dart';
+import 'package:psitlite_demo/state/student.dart';
+import 'package:psitlite_demo/services/cache_service.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/theme/theme.dart';
+import 'package:psitlite_demo/theme/app_theme.dart';
 import 'screens/dashboard/dashboard_screen.dart';
 import '../screens/login_screen.dart';
 
@@ -18,7 +18,7 @@ class AppRoot extends StatelessWidget {
       valueListenable: ThemeController.themeMode,
       builder: (_, mode, _) {
         return MaterialApp(
-          debugShowCheckedModeBanner: true,
+          debugShowCheckedModeBanner: false,
           theme: AppTheme.lightTheme,
           darkTheme: AppTheme.darkTheme,
           themeMode: mode,

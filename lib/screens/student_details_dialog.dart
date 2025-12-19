@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/state/student.dart';
+import 'package:psitlite_demo/state/student.dart';
 
 Future<void> showStudentDetailsDialog(BuildContext context) async {
   await showDialog(

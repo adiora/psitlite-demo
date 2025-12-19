@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart';
-import 'package:psit_lite_demo/models/olt_report.dart';
-import 'package:psit_lite_demo/models/olt_solution.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
-import 'package:psit_lite_demo/widgets/error_box.dart';
+import 'package:psitlite_demo/models/olt_report.dart';
+import 'package:psitlite_demo/models/olt_solution.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/widgets/error_box.dart';
 
 class OltSolutionScreen extends StatefulWidget {
   final OltDetail olt;

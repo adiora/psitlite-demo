@@ -1,5 +1,5 @@
-name: psit_lite_demo
-description: "A lightweight minimal alternative to original PSIT App."
+name: psitlite_demo
+description: "A demo app for PSiT Lite app"
 publish_to: 'none'
 version: 1.0.6+3
 
@@ -35,6 +35,7 @@ flutter:
     - assets/icon_light.png
     - assets/icon_dark.png
     - assets/mock/
+    - assets/mock/marks/
 
 flutter_launcher_icons:
   android: true

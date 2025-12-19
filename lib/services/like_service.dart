@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:psit_lite_demo/services/mock_data.dart';
+import 'package:psitlite_demo/services/mock_data.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class UserStats {
@@ -41,7 +41,7 @@ class LikeService {
   }
 
   static Future<Stats> fetchStats() async {
-    final stats = jsonDecode(await MockData.getLikeStates());
+    final stats = jsonDecode(await MockData.getLikeStats());
     return Stats(likes: stats['likes'], visits: stats['visits']);
   }
 

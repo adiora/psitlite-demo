@@ -22,7 +22,7 @@
         android:name="${applicationName}"
         android:enableOnBackInvokedCallback="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="PSiT Lite">
+        android:label="PSiT Lite Demo">
         
         <activity
             android:name=".MainActivity"

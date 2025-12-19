@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/models/student_timetable.dart';
-import 'package:psit_lite_demo/domain/timetable/timetable_constants.dart';
-import 'package:psit_lite_demo/domain/timetable/timetable_orientation.dart';
-import 'package:psit_lite_demo/state/timetable/timetable_store.dart';
-import 'package:psit_lite_demo/utils/util.dart';
-import 'package:psit_lite_demo/widgets/error_box.dart';
+import 'package:psitlite_demo/models/student_timetable.dart';
+import 'package:psitlite_demo/domain/timetable/timetable_constants.dart';
+import 'package:psitlite_demo/domain/timetable/timetable_orientation.dart';
+import 'package:psitlite_demo/state/timetable/timetable_store.dart';
+import 'package:psitlite_demo/utils/util.dart';
+import 'package:psitlite_demo/widgets/error_box.dart';
 
 class TimetableGrid extends StatefulWidget {
   static const int lunchIndex = 3;

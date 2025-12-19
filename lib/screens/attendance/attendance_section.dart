@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
-import 'package:psit_lite_demo/theme/app_theme.dart';
-import 'package:psit_lite_demo/widgets/error_box.dart';
-import 'package:psit_lite_demo/screens/attendance/label_box.dart';
-import 'package:psit_lite_demo/widgets/shimmer_box.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/theme/app_theme.dart';
+import 'package:psitlite_demo/widgets/error_box.dart';
+import 'package:psitlite_demo/screens/attendance/label_box.dart';
+import 'package:psitlite_demo/widgets/shimmer_box.dart';
 import 'attendance_screen.dart';
 import '../../models/student_attendance.dart';
 

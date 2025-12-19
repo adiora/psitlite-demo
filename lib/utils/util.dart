@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/services/cache_service.dart';
-import 'package:psit_lite_demo/theme/theme.dart';
+import 'package:psitlite_demo/services/cache_service.dart';
+import 'package:psitlite_demo/theme/theme.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 Future<void> performPostLogout() async {

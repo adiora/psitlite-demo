@@ -1,4 +1,4 @@
-import 'package:psit_lite_demo/models/student_data.dart' show StudentData;
+import 'package:psitlite_demo/models/student_data.dart' show StudentData;
 
 class Student {
   static StudentData data = StudentData.fromJson({});

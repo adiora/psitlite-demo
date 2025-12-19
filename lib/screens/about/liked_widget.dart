@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/services/like_service.dart';
+import 'package:psitlite_demo/services/like_service.dart';
 
 class LikedWidget extends StatefulWidget {
   const LikedWidget({super.key});

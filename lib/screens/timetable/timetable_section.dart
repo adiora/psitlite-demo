@@ -1,16 +1,16 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/models/student_timetable.dart';
-import 'package:psit_lite_demo/domain/timetable/timetable_constants.dart';
-import 'package:psit_lite_demo/screens/timetable/timetable_resolve.dart';
-import 'package:psit_lite_demo/screens/timetable/timetable_screen.dart';
-import 'package:psit_lite_demo/state/timetable/timetable_store.dart';
-import 'package:psit_lite_demo/services/cache_service.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
-import 'package:psit_lite_demo/utils/util.dart';
-import 'package:psit_lite_demo/widgets/error_box.dart';
-import 'package:psit_lite_demo/widgets/shimmer_box.dart';
+import 'package:psitlite_demo/models/student_timetable.dart';
+import 'package:psitlite_demo/domain/timetable/timetable_constants.dart';
+import 'package:psitlite_demo/screens/timetable/timetable_resolve.dart';
+import 'package:psitlite_demo/screens/timetable/timetable_screen.dart';
+import 'package:psitlite_demo/state/timetable/timetable_store.dart';
+import 'package:psitlite_demo/services/cache_service.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/utils/util.dart';
+import 'package:psitlite_demo/widgets/error_box.dart';
+import 'package:psitlite_demo/widgets/shimmer_box.dart';
 
 class TimetableSection extends StatefulWidget {
   const TimetableSection({super.key});
@@ -59,7 +59,9 @@ class _TimetableSectionState extends State<TimetableSection> {
       }
 
       error = '';
-    } catch (e) {
+    } catch (e, s) {
+      print(e);
+      debugPrintStack(stackTrace: s);
       error = e.toString();
     }
 

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:psit_lite_demo/screens/timetable/student_info_dialog.dart';
-import 'package:psit_lite_demo/screens/timetable/timetaable_grid.dart';
-import 'package:psit_lite_demo/domain/timetable/timetable_orientation.dart';
-import 'package:psit_lite_demo/screens/timetable/timetable_resolve.dart';
+import 'package:psitlite_demo/screens/timetable/student_info_dialog.dart';
+import 'package:psitlite_demo/screens/timetable/timetaable_grid.dart';
+import 'package:psitlite_demo/domain/timetable/timetable_orientation.dart';
+import 'package:psitlite_demo/screens/timetable/timetable_resolve.dart';
 
 class TimetableScreen extends StatefulWidget {
   const TimetableScreen({super.key});

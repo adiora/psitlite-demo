@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/models/announcements.dart';
-import 'package:psit_lite_demo/services/mock_api_service.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
-import 'package:psit_lite_demo/widgets/error_box.dart';
+import 'package:psitlite_demo/models/announcements.dart';
+import 'package:psitlite_demo/services/mock_api_service.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/widgets/error_box.dart';
 
 class AnnouncementScreen extends StatelessWidget {
   const AnnouncementScreen({super.key});

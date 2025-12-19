@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/screens/marks/marks_screen.dart';
-import 'package:psit_lite_demo/screens/marks/oltmarks_screen.dart';
+import 'package:psitlite_demo/screens/marks/marks_screen.dart';
+import 'package:psitlite_demo/screens/marks/oltmarks_screen.dart';
 
 class MarksSection extends StatelessWidget {
   const MarksSection({super.key});

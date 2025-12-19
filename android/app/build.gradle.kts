@@ -8,9 +8,6 @@ if (keystorePropertiesFile.exists()) {
 
 plugins {
     id("com.android.application")
-    // START: FlutterFire Configuration
-    id("com.google.gms.google-services")
-    // END: FlutterFire Configuration
     id("kotlin-android")
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id("dev.flutter.flutter-gradle-plugin")
@@ -18,7 +15,7 @@ plugins {
 
 android {
     
-    namespace = "com.adiora.psitlite"
+    namespace = "com.adiora.psitlite_demo"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "27.0.12077973"
 
@@ -32,7 +29,7 @@ android {
     }
     
     defaultConfig {
-        applicationId = "com.adiora.psitlite"
+        applicationId = "com.adiora.psitlite_demo"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

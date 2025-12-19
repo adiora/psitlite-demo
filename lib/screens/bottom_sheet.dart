@@ -1,13 +1,13 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/screens/about/about_dialog.dart';
-import 'package:psit_lite_demo/screens/student_details_dialog.dart';
-import 'package:psit_lite_demo/state/student.dart';
-import 'package:psit_lite_demo/screens/login_screen.dart';
-import 'package:psit_lite_demo/services/fetch_service.dart';
-import 'package:psit_lite_demo/theme/theme.dart';
-import 'package:psit_lite_demo/utils/util.dart';
-import 'package:psit_lite_demo/widgets/shimmer_box.dart';
+import 'package:psitlite_demo/screens/about/about_dialog.dart';
+import 'package:psitlite_demo/screens/student_details_dialog.dart';
+import 'package:psitlite_demo/state/student.dart';
+import 'package:psitlite_demo/screens/login_screen.dart';
+import 'package:psitlite_demo/services/fetch_service.dart';
+import 'package:psitlite_demo/theme/theme.dart';
+import 'package:psitlite_demo/utils/util.dart';
+import 'package:psitlite_demo/widgets/shimmer_box.dart';
 
 class ModalBottomSheet extends StatefulWidget {
   const ModalBottomSheet({super.key});

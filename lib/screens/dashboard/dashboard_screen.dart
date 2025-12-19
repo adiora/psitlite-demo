@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:psit_lite_demo/screens/announcements_screen.dart';
-import 'package:psit_lite_demo/screens/bottom_sheet.dart';
-import 'package:psit_lite_demo/screens/marks/marks_section.dart';
-import 'package:psit_lite_demo/screens/timetable/timetable_section.dart';
+import 'package:psitlite_demo/screens/announcements_screen.dart';
+import 'package:psitlite_demo/screens/bottom_sheet.dart';
+import 'package:psitlite_demo/screens/marks/marks_section.dart';
+import 'package:psitlite_demo/screens/timetable/timetable_section.dart';
 import '../attendance/attendance_section.dart';
 import 'background_shape.dart';
 
