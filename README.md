@@ -32,9 +32,9 @@ The app intentionally avoids heavy state-management frameworks to keep things si
 - Custom widgets for reusable UI components
 
 ## Screenshots
-| Dashboard | Attendance | Timetable |
-|----------|------------|-----------|
-| ![](screenshots/dashboard.png) | ![](screenshots/attendance.png) | ![](screenshots/timetable.png) |
+| Dashboard | Attendance | Timetable | Marks | Announcements |
+|-----------|-----------|-----------|-----------|-----------|
+| ![Dashboard screen](screenshots/dashboard.webp) | ![Attendance screen](screenshots/attendance.webp) | ![Timetable screen](screenshots/timetable.png) | ![Marks screen](screenshots/marks.webp) |  ![Announcements screen](screenshots/announcements.webp) |
 
 ## Running the Demo
 ```bash
