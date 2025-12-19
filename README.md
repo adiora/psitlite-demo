@@ -39,9 +39,9 @@ The app intentionally avoids heavy state-management frameworks to keep things si
     <th>Timetable</th>
   </tr>
   <tr>
-    <td><img src="screenshots/dashboard.webp" width="150"></td>
-    <td><img src="screenshots/attendance.webp" width="150"></td>
-    <td><img src="screenshots/timetable.webp" width="150"></td>
+    <td><img src="screenshots/dashboard.webp" width="200"></td>
+    <td><img src="screenshots/attendance.webp" width="200"></td>
+    <td><img src="screenshots/timetable.webp" width="200"></td>
   </tr>
   <tr>
     <th>Marks</th>
@@ -49,9 +49,9 @@ The app intentionally avoids heavy state-management frameworks to keep things si
     <th>Announcements</th>
   </tr>
   <tr>
-  <td><img src="screenshots/marks.webp" width="150"></td>
-    <td><img src="screenshots/oltmarks.webp" width="150"></td>
-    <td><img src="screenshots/announcements.webp" width="150"></td>
+  <td><img src="screenshots/marks.webp" width="200"></td>
+    <td><img src="screenshots/oltmarks.webp" width="200"></td>
+    <td><img src="screenshots/announcements.webp" width="200"></td>
   </tr>
   </table>
 
